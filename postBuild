@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo 'setwd("/home/jovyan/mbf32_src")' >> /home/jovyan/.Rprofile
